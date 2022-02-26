@@ -1,6 +1,6 @@
 # Lab Exercise2
 
-### Lijun Yu
+### Eileen Yu
 
 
 
